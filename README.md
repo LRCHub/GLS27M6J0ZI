@@ -1,0 +1,77 @@
+# Charlie Puth – LA Girls
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.84] Told you I'm moving on to bigger and better things
+[00:16.19] Guess you never know how good you got it 'til it's gone
+[00:20.59] Thought I could find sombody new who could take your place
+[00:25.43] The list goes on, and on, and on
+[00:41.43] 
+[00:28.20] There was Nikki and Nicole, Tiffany, and Heather
+[00:32.96] But there's only room for you in my world
+[00:37.69] But you say that I changed like the Eastcoast weather
+[00:42.57] How the hell did I get caught up
+[00:45.59] Messin' with these LA girls?
+[00:59.59] 
+[00:48.34] I miss my baby
+[00:50.40] I'm missin' my baby (LA girls)
+[00:53.11] I miss my baby
+[00:55.19] Messin' with these LA girls
+[01:08.69] 
+[00:58.31] (What?)
+[00:59.02] I miss the days we take the Greyhound to NYC (NYC)
+[01:04.20] Wish I could have seen that it was perfect how it was
+[01:08.04] (Listen)
+[01:08.75] I don't want this to be the way you remember me
+[01:13.50] 'Cause I know I was wrong, wrong
+[01:29.50] 
+[01:16.32] There was Nikki and Nicole, Tiffany, and Heather
+[01:20.92] But there's only room for you in my world
+[01:25.65] But you say that I changed like the Eastcoast weather
+[01:30.42] How the hell did I get caught up (Caught up)
+[01:33.66] Messin' with these LA girls?
+[01:47.66] 
+[01:36.20] I miss my baby (My baby)
+[01:38.59] I'm missin' my baby (LA girls)
+[01:41.15] I miss my baby
+[01:42.58] Here we go messin' with these LA girls
+[02:01.58] 
+[01:45.89] I miss my baby (Baby)
+[01:48.05] I'm missin' my baby (LA girls)
+[01:50.74] I miss my baby
+[01:52.34] Here we go messin' with these LA girls
+[02:11.34] 
+[01:55.34] One, two, three
+[01:56.64] Talk to me like
+[01:57.68] Ooh-ooh, ooh-ooh
+[02:00.04] Ooh-ooh, ooh-ooh (Oh-oh)
+[02:02.12] Ooh-ooh, ooh-ooh
+[02:04.37] Quit messin' with me, baby
+[02:07.02] Ooh-ooh, ooh-ooh (Yeah, oh, oh)
+[02:09.32] Ooh-ooh, ooh-ooh (Oh-oh)
+[02:21.32] 
+[02:15.94] There was Nikki and Nicole, Tiffany, and Heather
+[02:21.06] But there's only room for you in my world
+[02:25.67] But you say that I changed like the eastcoast weather
+[02:30.80] How the hell did I get caught up
+[02:33.68] Messin' with these LA girls?
+[02:47.68] 
+[02:36.22] I miss my baby (Baby)
+[02:38.52] I'm missin' my baby (LA girls)
+[02:41.18] I miss my baby (My baby)
+[02:43.38] Messin' with these LA girls
+[02:45.60] I miss my baby (I'm missin' my baby)
+[02:48.10] I'm missin' my baby (LA girls)
+[02:50.76] I miss my baby (baby)
+[02:52.73] Messin' with these LA girls
+[03:06.23] 
+[02:55.76] I miss my baby
+[02:57.92] I'm missin' my baby (LA girls)
+[03:00.45] I miss my baby
+[03:02.55] All of these LA girls
+[03:05.28] I miss my baby (My baby)
+[03:07.37] I'm missin' my baby (LA girls)
+[03:10.06] I miss my baby
+[03:11.97] Messin' with these LA girls
+```
