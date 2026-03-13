@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "LA Girls",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-03-13T13:02:32.712093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LA Girls",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/01_LA_Girls_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Charlie Puth - LA Girls [Official Audio]",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/02_Charlie_Puth_-_LA_Girls_[Official_Audio]_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LA Girls",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/03_LA_Girls_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LA Girls",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/04_LA_Girls_Nazareth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LA Girls",
+      "artist": "Harrison X Juicy M",
+      "has_synced": true,
+      "path": "select/05_LA_Girls_Harrison_X_Juicy_M.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LA Girls",
+      "artist": "Harrison",
+      "has_synced": true,
+      "path": "select/06_LA_Girls_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LA Girls",
+      "artist": "whiterosemoxie",
+      "has_synced": false,
+      "path": "select/07_LA_Girls_whiterosemoxie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Harrison & Juicy M. - LA Girls",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/08_Harrison_&_Juicy_M._-_LA_Girls_Various.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "03 LA Girls",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/09_03_LA_Girls_Charlie_Puth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LA Girls",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_LA_Girls_Charlie_Puth.txt"
+    }
+  ]
+}
